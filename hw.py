@@ -1,3 +1,3 @@
 print("HELLO WORLD...?")
 def hello():
-	print("HELLO WORLD...?")
+	return "HELLO WORLD...?"
